@@ -1,0 +1,1 @@
+{"name":"Local: ll10","url":"e:\\C++\\ll10.cpp","tests":[{"id":1648570680305,"input":"4 \n1 2 3 4","output":"2 1 4 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\ll10.cpp","group":"local","local":true}

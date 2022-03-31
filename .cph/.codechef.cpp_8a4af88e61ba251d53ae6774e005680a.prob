@@ -1,0 +1,1 @@
+{"name":"Local: codechef","url":"e:\\C++\\codechef.cpp","tests":[{"id":1646317400856,"input":"act\n2\ncat\ndog","output":"Yes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\codechef.cpp","group":"local","local":true}

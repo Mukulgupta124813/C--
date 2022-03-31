@@ -1,0 +1,1 @@
+{"name":"Local: stack1","url":"e:\\C++\\stack1.cpp","tests":[{"id":1648572439757,"input":"((a+b))","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\stack1.cpp","group":"local","local":true}

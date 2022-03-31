@@ -1,0 +1,1 @@
+{"name":"Local: codechef4","url":"e:\\C++\\codechef4.cpp","tests":[{"id":1646322680273,"input":"6\n18\n..H..T...HTH....T.\n3\n...\n10\nH..H..T..T\n2\nHT\n11\n.T...H..H.T\n7\nH..T..H","output":"Valid\nValid\nInvalid\nValid\nInvalid\nInvalid"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\codechef4.cpp","group":"local","local":true}
