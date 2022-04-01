@@ -12,11 +12,12 @@
 #define vll vector<long long int>
 using namespace std;
  
-int main(){
+int32_t main(){
     vll v;int n;
     int temp;
     cin>>n;
     for(int i=0;i<n;i++){
+
         cin>>temp;
         v.pb(temp);
     }
