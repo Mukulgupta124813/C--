@@ -1,0 +1,1 @@
+{"name":"Local: ZCO14003","url":"e:\\codinng\\C++\\ZCO14003.cpp","tests":[{"id":1648918950229,"input":"4\n30\n20\n53\n14","output":"60"},{"id":1648919526822,"input":"5\n40\n3\n65\n33\n21","output":"99"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\codinng\\C++\\ZCO14003.cpp","group":"local","local":true}
